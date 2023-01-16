@@ -10,9 +10,9 @@
 ### 🙋‍♂️ About Me
 
 - I'm a Software Engineer with 3+ years of experience
-- I'm currently working at [**Crater Club**](https://www.joincrater.club/)
-- I previously worked with [**Thinklink**](https://thinklink.io/) & [**Codemonk**](https://codemonk.in/)
-- I love reading open-source code and I occasionally contribute to it. Recently contributed to: [**SWR**](https://github.com/vercel/swr)
+- I'm currently working at [**Crater Club**](https://www.joincrater.club/){:target="_blank"}
+- I previously worked with [**Thinklink**](https://thinklink.io/){:target="_blank"} & [**Codemonk**](https://codemonk.in/){:target="_blank"}
+- I love reading open-source code and I occasionally contribute to it. Recently contributed to: [**SWR**](https://github.com/vercel/swr){:target="_blank"}
 - I love gaming 🎮 and playing basketball 🏀
 
 ### 🛠️ Languages and Tools
