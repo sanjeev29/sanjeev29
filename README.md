@@ -11,7 +11,7 @@
 
 - Graduate student in Computer Science at Michigan Technological University
 - I'm a Software Engineer with 3+ years of experience
-- I previously worked with [**Crater Club**](https://www.joincrater.club/), [**Thinklink**](https://thinklink.io/) & [**Codemonk**](https://codemonk.in/)
+- I previously worked with Crater Club, [**Thinklink**](https://thinklink.io/) & [**Codemonk**](https://codemonk.in/)
 - I love reading open-source code and I occasionally contribute to it. Recently I contributed to Vercel's [**SWR**](https://github.com/vercel/swr) package
 - I love gaming 🎮 and playing basketball 🏀
 
