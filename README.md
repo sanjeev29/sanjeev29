@@ -1,32 +1,52 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300px" />
+  <h1>Hi there 👋, I'm Sanjeev Raichur</h1>
   
-  <h1>Hi there 👋, I'm Sanjeev Raichur</h2>
-  
-  <a href="https://twitter.com/intent/follow?screen_name=sanjeev_raichur"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-     the-    badge&logo=Twitter&style=flat&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sanjeev-raichur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-                         badge&logo=linkedin&style=flat&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sanjeev-raichur/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sanjeevraichur.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
+
+---
 
 ### 🙋‍♂️ About Me
 
-- Graduate student in Computer Science at Michigan Technological University
-- I'm a Software Engineer with 3+ years of experience
-- I previously worked with Crater Club, [**Thinklink**](https://thinklink.io/) & [**Codemonk**](https://codemonk.in/)
-- I love reading open-source code and I occasionally contribute to it. Recently I contributed to Vercel's [**SWR**](https://github.com/vercel/swr) package
-- 🎮 ⚽️ 🏀
+- Michigan Tech CS grad who loves turning ideas into real, usable products.
+- 3+ years shipping code at startups—backend, frontend, and everything in between.
+- I’m all about clean APIs, efficient databases, and smooth, scalable deployments.
+- Grad school turned me into a compiler geek and I tinkered around compilers and LLVM for fun!
+- Shipped live streaming, ecomm, and end-user products from idea to launch.
+- Not afraid to refactor, automate, or jump into DevOps when things are on fire.
+
+---
 
 ### 🛠️ Languages and Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="60"/>&nbsp;
-<img src="https://buttercms.com/static/images/tech_banners/Nextjs.b8a717322c08.png" title="Next JS" alt="Next JS" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Html5" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Css3" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="100" height="60"/>&nbsp;
+Python • Go • JavaScript/TypeScript • C/C++ • 
+Django • Flask • React • Next.js • Node.js • 
+PostgreSQL • MySQL • MongoDB • 
+Docker • Git • Linux • Redis • 
+AWS • REST APIs • CI/CD
+
+---
+
+### 📌 Featured Projects
+
+#### [OpenOS](https://www.producthunt.com/posts/openos)
+*Next.js • TypeScript • Prisma • tRPC • Tailwind CSS*  
+Contributed to the product by adding features like autocomplete inputs, template customization, and saved templates. Improved the UX with command history, bug fixes, and support for running templates via URL query parameters.
+
+#### [Malicious Packet Checking](https://github.com/sanjeev29/malicious-packet-checking)
+*C++ • Makefile*  
+A network security tool designed to detect and manage malicious IP addresses. It embeds 10k IP addresses in a Random Bloom Filter (RBF) for efficient querying and uses a custom SHA-256 hash for secure indexing.
+
+#### [Pascal Junior](https://github.com/sanjeev29/pascal-junior)
+*C • x86 Assembly • Bison • Flex • Makefile • Pascal*  
+Extended a compiler to generate x86-64 assembly for a subset of the PJ programming language. Built symbol tables to handle global vs. local variables, managed function calls, return values, and register usage.
+
+---
+
+### 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/sanjeev-raichur/)
+- [Portfolio](https://sanjeevraichur.com/)
+
+---
