@@ -12,7 +12,7 @@
 - Michigan Tech CS grad who loves turning ideas into real, usable products.
 - 3+ years shipping code at startups—backend, frontend, and everything in between.
 - I’m all about clean APIs, efficient databases, and smooth, scalable deployments.
-- Grad school turned me into a compiler geek and I tinkered around compilers and LLVM for fun!
+- Grad school turned me into a compiler geek and I tinkered around compilers and LLVM!
 - Shipped live streaming, ecomm, and end-user products from idea to launch.
 - Not afraid to refactor, automate, or jump into DevOps when things are on fire.
 
